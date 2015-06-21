@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Flexishore_Codemirror</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Summary</summary>
+    <description>Flexishore Codemirror extension</description>
+    <notes>Notes</notes>
+    <authors><author><name>Rafa&#x142;</name><user>auto-converted</user><email>rafal.k@flexishore.com</email></author></authors>
+    <date>2011-08-02</date>
+    <time>09:13:58</time>
+    <contents><target name="magelocal"><dir name="Flexishore"><dir name="Codemirror"><dir name="Model"><file name="Config.php" hash="527b596f89ae804e5c7648d7fe132ce9"/><file name="Observer.php" hash="e92756473644f1c4156099e79573fa91"/></dir><dir name="etc"><file name="config.xml" hash="836964580dd22949bcc813aaaafb3b28"/></dir></dir></dir></target><target name="mageweb"><dir name="js"><dir name="tiny_mce"><dir name="plugins"><dir name="codemagic"><dir name="css"><file name="codemirror.css" hash="5f09dd1d711781f7d14f49d386140f98"/><file name="default.css" hash="143d799e6d9cb2d11e52475291977342"/><file name="style.css" hash="977c810c95b945951dccad098452c79c"/></dir><dir name="img"><dir name="icons"><file name="file.png" hash="2ca9835eae486975d6d58978ec1a282d"/><file name="lens.png" hash="bfd1802b619a875743ef5718f8ae4b4b"/><file name="redo.png" hash="2f88c4360c2b7ba8775621291fac395f"/><file name="undo.png" hash="3f0b4f17998f7c86acd3fecf83df2fc8"/></dir><file name="code.png" hash="1d70003026d4577eb0dc782c197eb037"/></dir><dir name="js"><file name="beautify-html.js" hash="360f4bb0b3ab60b46733dbd0056c5165"/><file name="beautify.js" hash="d940a624216e7c5ffdd62fafc06d75f2"/><file name="codemagic.js" hash="c8358b150fd549ade2adf5d32de9a9cb"/><file name="codemirror-compressed.js" hash="ca2c5fc57ad7e4955582f33972e7da07"/></dir><dir name="langs"><file name="cs.js" hash="c62f709c7411ef37577f415eecc5bd96"/><file name="cs_dlg.js" hash="a09a7f5070d4843a79bc141d3de5099e"/><file name="en.js" hash="5111ba5b1886d33f4aa11c2173c1450f"/><file name="en_dlg.js" hash="115d2e3fba3caa163d86b72e0b30942d"/><file name="sk.js" hash="b3f123af4914dfd4eb2470cca3aeec1b"/><file name="sk_dlg.js" hash="84780f09ffe8bae8811fa12829691aa1"/></dir><file name="codemagic.htm" hash="08cdd695e695f46e95aa74720b1742a1"/><file name="editor_plugin.js" hash="889d9f77bc75cc353fb63ab1975af809"/><file name="editor_plugin_src.js" hash="1085e2d91509cee2932b79be7683e0d0"/><file name="licence.txt" hash="04264441a94d5e6625a4cd37ce9516be"/></dir></dir></dir></dir><dir name="app"><dir name="etc"><dir name="modules"><file name="Flexishore_Codemirror.xml" hash="f28bd5f91883ed9406cdffafba51b5b7"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
